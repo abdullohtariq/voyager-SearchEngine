@@ -1,8 +1,8 @@
-# Voyager-Browser
+# Voyager-SearchEngine
 <br>
-Voyager is a simple browser that lets you perform simple tasks with simple gui.
+Voyager is a search Engine which looks up in data Bases of arround 10,000 websites to see, if it can find something related to your input.
 <br>
-● This Broswer is based on pygt5 library.
+● It is a C++ Data Sturcture project for my third Semster. 
 <br>
 ● Voyager let's you go to a URL directly.
 <br>
